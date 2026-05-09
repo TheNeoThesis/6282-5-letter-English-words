@@ -15,4 +15,4 @@
  <br/>intended for word filtering, language modeling, puzzle generation, and text analysis pipelines.
 
 words are not hand-picked and may not be useful if purely common words are needed <br/> —for that, go to https://github.com/first20hours/google-10000-english.
- <br/> <br/>This repo will be useful for you if you need a larger collection words; this repo contains 9.3x more words than google-10000.
+ <br/> <br/><div>This repo will be useful for you if you need a larger collection words; this repo contains 9.3x more words than google-10000.
