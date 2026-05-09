@@ -14,5 +14,5 @@
 </table>
  intended for word filtering, language modeling, puzzle generation, and text analysis pipelines.
 
-Note that words are not hand-picked and may not be useful if precise common words are needed for that go to https://github.com/first20hours/google-10000-english.
-This is more for people who need more words since mine contains 9.3x more words than theirs.
+Note that words are not hand-picked and may not be useful if precise common words are needed, for that, go to https://github.com/first20hours/google-10000-english.
+This is for those who need more words, this repo contains 9.3x more words than google-10000.
