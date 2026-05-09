@@ -1,4 +1,4 @@
-<h1 align="center">Common English Words</h1> <p align="center">93,305 unique words for filtering, games, linguistic processing</p>
+<h1 align="center">Common English Words</h1> <p align="center">93,305 unique words for filtering, games and linguistic processing</p>
   <div align="center"> <table>
   <tr><td>3-letter words  </td><td align="right">  1,818</td></tr>
   <tr><td>4-letter words  </td><td align="right">  3,421</td></tr>
